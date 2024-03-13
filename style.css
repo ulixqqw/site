@@ -1,68 +1,68 @@
 body{
-  background-color: rgba(235, 214, 30, 0.425); 
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2Fcow-print-3d-wallpaper-in-2023--10766486603839288%2F&psig=AOvVaw1t0SHP3WZ-ZJJEcZ-3lgDx&ust=1710432860539000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCQqIvR8YQDFQAAAAAdAAAAABAD);
 }
 h1{
     color: rgb(150, 6, 18);
-    font-size: 15pt;
+    font-size: 100pt;
     margin-left: 40px;
     border: 20px solid firebrick;
-    border-radius: 30px;
+    border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
 
 }
 h2{
      color: darkviolet;
-     font-size: 15pt;
+     font-size:80pt;
      font-weight: bolder;
      margin-left:  10px; ;
      border: 20px solid firebrick;
-     border-radius: 30px;
+     border-radius: 10px;
      box-shadow:10px 10px 10px gold;
 
  }
  h3{
      color: brown;
-     font-size: 10pt;
+     font-size: 80pt;
      font-weight: bold;
      margin-left: 15px;
      border: 20px solid firebrick;
-     border-radius: 30px;
+     border-radius: 10px;
      box-shadow: 10px 10px 10px gold;
  }
  h4{
      color: hotpink;
-     font-size: 10pt;
+     font-size: 80pt;
      font-weight: bold;
      margin-left: 20px;
      border: 20px solid firebrick;
-     border-radius:  30px;
+     border-radius:  10px;
      box-shadow: 10px 10px 10px gold;
 }
 h5{
     color: deeppink;
-    font-size: 10pt;
+    font-size: 80pt;
     font-weight: bold;
     margin-left: 25px;
     border: 20px solid firebrick;
-    border-radius: 30px;
+    border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
 }
 h6{
     color: magenta;
-    font-size: 10pt;
+    font-size: 80pt;
     font-weight: bold;
-    margin-left: 30px;
+    margin-left: 10px;
     border: 20px solid firebrick;
-    border-radius: 30px;
+    border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
 }
 p{
     color: blue;
-    font-size: 10pt;
+    font-size: 80pt;
     font-weight: bold;
     margin-left: 35px;
     border: 20px solid firebrick;
-    border-radius: 30px;
+    border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
    }     
     
