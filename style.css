@@ -1,5 +1,8 @@
 body{
   background-image: url(https://i.pinimg.com/originals/3c/8a/e4/3c8ae42a9265c8105268c12eb22af9ee.png );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1{
     color: rgb(150, 6, 18);
