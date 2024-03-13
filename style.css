@@ -4,42 +4,66 @@ body{
 h1{
     color: rgb(150, 6, 18);
     font-size: 15pt;
+    margin-left: 40px;
+    border: 20px solid firebrick;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px gold;
+
 }
 h2{
      color: darkviolet;
-     font-size: 15;
+     font-size: 15pt;
      font-weight: bolder;
-     margin: left 10px; ;
+     margin-left:  10px; ;
+     border: 20px solid firebrick;
+     border-radius: 30px;
+     box-shadow:10px 10px 10px gold;
+
  }
  h3{
      color: brown;
-     font-size: 10;
+     font-size: 10pt;
      font-weight: bold;
      margin-left: 15px;
+     border: 20px solid firebrick;
+     border-radius: 30px;
+     box-shadow: 10px 10px 10px gold;
  }
  h4{
      color: hotpink;
-     font-size: 10;
+     font-size: 10pt;
      font-weight: bold;
      margin-left: 20px;
+     border: 20px solid firebrick;
+     border-radius:  30px;
+     box-shadow: 10px 10px 10px gold;
 }
 h5{
     color: deeppink;
-    font-size: 10;
+    font-size: 10pt;
     font-weight: bold;
     margin-left: 25px;
+    border: 20px solid firebrick;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px gold;
 }
 h6{
     color: magenta;
-    font-size: 10;
+    font-size: 10pt;
     font-weight: bold;
     margin-left: 30px;
+    border: 20px solid firebrick;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px gold;
 }
 p{
     color: blue;
-    font-size: 10;
+    font-size: 10pt;
     font-weight: bold;
     margin-left: 35px;
+    border: 20px solid firebrick;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px gold;
    }     
     
 
