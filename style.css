@@ -1,4 +1,46 @@
 body{
   background-color: rgba(235, 214, 30, 0.425); 
 }
+h1{
+    color: rgb(150, 6, 18);
+    font-size: 15pt;
+}
+h2{
+     color: darkviolet;
+     font-size: 15;
+     font-weight: bolder;
+     margin: left 10px; ;
+ }
+ h3{
+     color: brown;
+     font-size: 10;
+     font-weight: bold;
+     margin-left: 15px;
+ }
+ h4{
+     color: hotpink;
+     font-size: 10;
+     font-weight: bold;
+     margin-left: 20px;
+}
+h5{
+    color: deeppink;
+    font-size: 10;
+    font-weight: bold;
+    margin-left: 25px;
+}
+h6{
+    color: magenta;
+    font-size: 10;
+    font-weight: bold;
+    margin-left: 30px;
+}
+p{
+    color: blue;
+    font-size: 10;
+    font-weight: bold;
+    margin-left: 35px;
+   }     
+    
+
     
