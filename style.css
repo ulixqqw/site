@@ -88,8 +88,15 @@ li:hover{
 }
  
 img{
+    height: 600pt;
+    width: 600pt;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+}
+
+.img2{
+    border-radius: 0px;
+
 }
 
 
