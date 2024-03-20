@@ -98,8 +98,37 @@ img{
     border-radius: 0px;
     border-top-left-radius: 50px;
 }
-
-
+#container {
+    width: auto;
+}
+#header {
+    background: #85d6e5;
+    height: 150px;
+}
+#navigation {
+    background: #85d6e5;
+    height: 40px;
+}
+#content {
+    background:#85d6e5;
+    float: left;    
+    width: 75%;
+    height:250px
+}
+#sidebar {
+    background:#85d6e5;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+#clear{
+    clear: both;
+}
+#footer {
+    margin-top: 4px;
+    background: #85d6e5;
+    height: 150px;
+}
 
 
 
