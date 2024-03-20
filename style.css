@@ -7,7 +7,7 @@ body{
 h1{
     color: rgb(150, 6, 18);
     font-size: 80pt;
-    margin-left: 40px;
+    margin-left: 10px;
     border: 20px solid firebrick;
     border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
@@ -28,7 +28,7 @@ h2{
      color: brown;
      font-size: 40pt;
      font-weight: bold;
-     margin-left: 15px;
+     margin-left: 10px;
      border: 20px solid firebrick;
      border-radius: 10px;
      box-shadow: 10px 10px 10px gold;
@@ -37,7 +37,7 @@ h2{
      color: hotpink;
      font-size: 40pt;
      font-weight: bold;
-     margin-left: 20px;
+     margin-left: 10px;
      border: 20px solid firebrick;
      border-radius:  10px;
      box-shadow: 10px 10px 10px gold;
@@ -46,7 +46,7 @@ h5{
     color: deeppink;
     font-size: 40pt;
     font-weight: bold;
-    margin-left: 25px;
+    margin-left: 10px;
     border: 20px solid firebrick;
     border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
@@ -64,7 +64,7 @@ p{
     color: blue;
     font-size: 40pt;
     font-weight: bold;
-    margin-left: 35px;
+    margin-left: 10px;
     border: 20px solid firebrick;
     border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
@@ -76,15 +76,11 @@ ol{
     list-style-type: upper-latin;
     padding: 15px;
     margin: 5px;
-
-
-
 }
 li{
     background:white;
     padding:15px;
     margin:5px;
-    
 }
 
  
