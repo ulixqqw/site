@@ -12,6 +12,7 @@ h1{
     border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
 
+
 }
 h2{
      color: darkviolet;
@@ -68,6 +69,19 @@ p{
     border-radius: 10px;
     box-shadow: 10px 10px 10px gold;
    }     
-    
 
-    
+
+ul{
+    background: #ebba1c;
+    list-style:square;
+}
+li{
+    background:#041dfc;
+}
+ 
+
+
+
+
+
+
