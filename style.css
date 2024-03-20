@@ -71,9 +71,9 @@ p{
    }     
 
 
-ul{
+ol{
     background: #ebba1c;
-    list-style:square;
+    list-style-type: upper-latin;
     padding: 15px;
     margin: 5px;
 
@@ -85,8 +85,6 @@ li{
     padding:15px;
     margin:5px;
     
-
-
 }
 
  
