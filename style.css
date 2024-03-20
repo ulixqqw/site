@@ -102,11 +102,11 @@ img{
     width: auto;
 }
 #header {
-    background: #85d6e5;
+    background: #014d5a;
     height: 150px;
 }
 #navigation {
-    background: #85d6e5;
+    background: #2c7785;
     height: 40px;
 }
 #content {
@@ -116,7 +116,7 @@ img{
     height:250px
 }
 #sidebar {
-    background:#85d6e5;
+    background:#0f2b30;
     float: right;
     width: 25%;
     height: 250px;
@@ -126,7 +126,7 @@ img{
 }
 #footer {
     margin-top: 4px;
-    background: #85d6e5;
+    background: #30daf8;
     height: 150px;
 }
 
