@@ -2,11 +2,23 @@ header{
     background-color: #5271ff;
 }
 
-#logo{
+.logo{
     height: 100px;
     width: 100px;
 }
+main{
+
+}
 footer{
     background-color: #5271ff;
+}
+
+.footer-columns{
+    display: flex;
+}
+
+.footer-columns{
+    flex: 50%;
+    margin: 20px;
 }
 
