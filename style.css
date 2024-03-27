@@ -30,7 +30,7 @@ footer{
     display: flex;
 }
 
-.footer-columns{
+.footer-column{
     flex: 50%;
     margin: 20px;
 }
