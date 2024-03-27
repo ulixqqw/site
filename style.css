@@ -8,11 +8,11 @@ header{
 }
 main{
     padding: 10px;
-    background-color: #5271ff;
+    background-color: silver;
 }
 
 .post {
-    background-color: #5271ff;
+    background-color: white;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
