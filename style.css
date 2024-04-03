@@ -1,12 +1,13 @@
-header{
+header {
     background-color: #5271ff;
 }
 
-.logo{
+.logo {
     height: 100px;
     width: 100px;
 }
-main{
+
+main {
     padding: 10px;
     background-color: silver;
 }
@@ -22,27 +23,29 @@ main{
 .post img {
     margin: 20px;
 }
-footer{
+
+footer {
     background-color: #5271ff;
 }
 
-.footer-columns{
+.footer-columns {
     display: flex;
 }
 
-.footer-column{
+.footer-column {
     flex: 50%;
     margin: 20px;
 }
 
-#menu1{
+#menu1 {
     position: relative;
     display: block;
     width: 100%;
     height: auto;
     z-index: 10;
 }
-#menu1 ul{
+
+#menu1 ul {
     position: relative;
     display: block;
     margin: 0px;
@@ -60,14 +63,14 @@ footer{
     content: " ";
 }
 
-#menu1 ul li{
+#menu1 ul li {
     position: relative;
     display: block;
     float: left;
-    width:  auto;
+    width: auto;
     height: auto;
 }
-#menu1 ul li ul li:first-child a{
+
+#menu1 ul li ul li:first-child a {
     border-top: 0px;
 }
-
