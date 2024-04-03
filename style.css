@@ -83,6 +83,7 @@ footer {
     font-weight: bold;
     text-transform: uppercase;
     height: 36px;
+    box-sizing: border-box;
     color: white;
 }
 
@@ -95,7 +96,7 @@ footer {
     background: #38b6ff;
 }
 
-#menu1 ul li :hover ul{
+#menu1 ul li:hover ul{
     display: block;
 }
 
