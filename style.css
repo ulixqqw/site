@@ -39,7 +39,7 @@ footer {
 }
 
 .footer-column {
-    flex: 75%;
+    flex: 50%;
     margin: 20px;
 }
 
@@ -129,4 +129,8 @@ h3{
 p{
     font-family: "Kanit";
     font-weight: 300;
+}
+
+.infodiv {
+    width: 580.078px;
 }
