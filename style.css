@@ -39,8 +39,8 @@ footer {
 }
 
 .ggg {
-    display: flex;
-    justify-content: end;
+    position: relative;
+    left: 300px;
 }
 
 
