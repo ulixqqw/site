@@ -36,7 +36,9 @@ footer {
 
 .footer-columns {
     display: flex;
+    align-items: end;
 }
+
 
 .footer-column {
     flex: 50%;
