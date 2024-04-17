@@ -40,7 +40,7 @@ footer {
 
 .ggg {
     display: flex;
-    align-items: end;
+    justify-content: end;
 }
 
 
